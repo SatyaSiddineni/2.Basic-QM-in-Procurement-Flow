@@ -57,7 +57,8 @@ This project demonstrates the complete Quality Management process integrated wit
         ✔ Inspection Lot Processing
       
 
+
 🙌 Author
 
-Satya Siddineni
+Satyanarayana Siddineni 
 SAP Functional Consultant
