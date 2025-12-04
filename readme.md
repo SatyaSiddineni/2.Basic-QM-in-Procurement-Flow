@@ -1,5 +1,7 @@
 Basic QM in Procurement Flow – SAP QM Functional Project
 
+1. Project Overview 
+
 This project demonstrates the complete Quality Management process integrated with Procurement in SAP.
         It is designed as a portfolio-ready project for SAP QM Functional Consultants to showcase hands-on knowledge in:
 
@@ -10,16 +12,16 @@ This project demonstrates the complete Quality Management process integrated wit
             ✔ Usage Decision & Stock Posting
             ✔ Functional Documentation
 
-1.Business Scenario
+2. Business Scenario
 
         A company wants to ensure that all purchased raw materials undergo Quality Inspection before posting to unrestricted stock.
         The SAP QM in Procurement process enables automated inspection during Goods Receipt (GR) and enforces quality control.
 
-2. Process Flow Diagram
+3. Process Flow Diagram
 
         Purchase Order → Goods Receipt → Inspection Lot → Result Recording → Usage Decision → Stock Posting
 
-3. Project Components
+4. Project Components
 
     This repository includes:
 
@@ -48,7 +50,7 @@ This project demonstrates the complete Quality Management process integrated wit
                     QE51N → Result recording
                     QA11 → Usage decision
 
-4. Skills Demonstrated
+5. Skills Demonstrated
 
         ✔ SAP QM Functional
         ✔ QM–MM Integration
