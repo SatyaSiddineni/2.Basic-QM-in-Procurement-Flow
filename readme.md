@@ -56,6 +56,15 @@ This project demonstrates the complete Quality Management process integrated wit
         ✔ QM–MM Integration
         ✔ Inspection Lot Processing
       
+6. Project Structure
+
+        Basic QM in Procurement Flow/
+        │── readme.md
+        │── Dataset/
+        │     └── data set.pdf
+        │
+        └── Documentation/
+              └── Basic QM in Procurement process Flow.pdf
 
 
 🙌 Author
