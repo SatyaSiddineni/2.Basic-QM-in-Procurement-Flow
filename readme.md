@@ -59,7 +59,7 @@ This project demonstrates the complete Quality Management process integrated wit
 6. Project Structure
 
         Basic QM in Procurement Flow/
-        │── readme.md
+        │── README.md
         │── Dataset/
         │     └── data set.pdf
         │
