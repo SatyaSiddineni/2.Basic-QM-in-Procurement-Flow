@@ -60,8 +60,8 @@ This project demonstrates the complete Quality Management process integrated wit
 
         Basic QM in Procurement Flow/
         │── README.md
-        │── Dataset/
-        │     └── data set.pdf
+        │── Test Data/
+        │     └── Sample Data.pdf
         │
         └── Documentation/
               └── Basic QM in Procurement process Flow.pdf
