@@ -65,6 +65,7 @@ Basic QM in Procurement Flow – SAP QM Functional Project
 6. Project Structure
 
         Basic QM in Procurement Flow/
+        │
         │── README.md
         │── Test Data/
         │     └── Sample Data.pdf
